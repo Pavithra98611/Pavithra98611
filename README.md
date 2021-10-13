@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Pavithra98611/Pavithra98611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I am Pavithra Kanmanirajah 👋
 
 Here are some ideas to get you started:
 
